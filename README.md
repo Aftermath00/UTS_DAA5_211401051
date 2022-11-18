@@ -12,5 +12,5 @@
 
 - Name : Rizky Azmi Swandy
 - Student ID : 211401051
-- Subject : Algorithm Design and Analytics
+- Subject : Design and Analytics of Algorithm
 - Laboratory : 5
