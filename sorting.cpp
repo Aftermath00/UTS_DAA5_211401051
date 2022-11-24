@@ -85,6 +85,8 @@ int main(){
     cout << "+-------------+" << endl;
     showData(lab5,m);
     quickSort(lab5,0,m-1);
+    cout << endl;
+    cout << endl;
     cout << "After Sorting" << endl;
     cout << "+------------+" << endl;
     showData(lab5,m);
