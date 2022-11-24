@@ -1,4 +1,4 @@
-# MID TERM DESIGN AND ANALYTICS OF ALGORITHM LABORATORY
+## MID TERM DESIGN AND ANALYTICS OF ALGORITHM LABORATORY
 
 1. Buat lah program Stack dan queue dan jelaskan setiap perbedaannya (bedah program) ! (video)
 
