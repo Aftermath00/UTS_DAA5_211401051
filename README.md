@@ -8,6 +8,9 @@
 
 4. buat lah program data mahasiswa yang di urutkan berdasarkan nim
 
+## Youtube Link
+- Stack and Queue : https://youtu.be/C1qKJYJ5uwA
+
 ## Personal Information :
 
 - Name : Rizky Azmi Swandy
