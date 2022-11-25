@@ -10,6 +10,7 @@
 
 ## Youtube Link
 - Stack and Queue : https://youtu.be/C1qKJYJ5uwA
+- Double Linked List : https://youtu.be/OJQoONKCoco
 
 ## Personal Information :
 
